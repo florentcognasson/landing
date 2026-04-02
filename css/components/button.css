@@ -1,0 +1,16 @@
+.btn-gold {
+    border: 1px solid #778da9;
+    padding: 15px 35px;
+    color: #e0e1dd;
+    font-weight: 500;
+    font-size: 14px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    background-color: transparent;
+}
+
+.btn-gold:hover {
+    background-color: #e0e1dd;
+    color: #0d1b2a;
+    border-color: #e0e1dd;
+}

@@ -1,0 +1,26 @@
+.banner {
+    background-image: linear-gradient(rgba(13, 27, 42, 0.8), rgba(13, 27, 42, 0.4)), url(../../images/library.jpg);
+    color: #e0e1dd;
+    padding: 200px 0px;
+    background-size: cover;
+    background-position: center;
+    text-align: center;
+}
+
+.banner h1 {
+    font-family: 'Crimson Pro', serif;
+    font-size: 65px;
+    font-style: italic;
+    font-weight: 400;
+    margin-bottom: 10px;
+}
+
+.banner h2 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 16px;
+    font-weight: 300;
+    margin-bottom: 50px;
+    color: #778da9;
+    letter-spacing: 4px;
+    text-transform: uppercase;
+}

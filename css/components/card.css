@@ -1,0 +1,36 @@
+.cards {
+    display: flex;
+    justify-content: center;
+    padding: 60px 0px;
+}
+
+.card {
+    background: #1b263b;
+    text-align: center;
+    width: 320px; 
+    margin: 20px;
+    border: 1px solid #415a77;
+    transition: 0.4s;
+}
+
+.card img {
+    width: 100%;
+    display: block;
+    opacity: 0.8;
+}
+
+.card:hover {
+    
+    border-color: #e0e1dd;
+}
+
+.card:hover img {
+    opacity: 1;
+}
+
+.card h3 {
+    font-family: 'Crimson Pro', serif;
+    font-size: 24px;
+    margin: 25px 0;
+    color: #e0e1dd;
+}
